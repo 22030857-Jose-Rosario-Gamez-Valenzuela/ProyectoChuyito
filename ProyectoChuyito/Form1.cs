@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,6 +18,7 @@ namespace ProyectoChuyito
         {
             InitializeComponent();
             this.KeyPreview = true;
+            //FLIPO EDITADO DESDE EL TEÑEFONO
         }
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
